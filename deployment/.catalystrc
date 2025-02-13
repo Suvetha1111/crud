@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "25279000000008077",
+      "name": "blogapp",
+      "domain": {
+        "id": "10095667483",
+        "name": "blogapp-878737784.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "878737784",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
